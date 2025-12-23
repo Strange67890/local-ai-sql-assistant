@@ -19,5 +19,5 @@ An intelligent database assistant that converts natural language questions into 
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/text-to-sql-ai.git](https://github.com/YOUR-USERNAME/text-to-sql-ai.git)
+   git clone https://github.com/Strange67890/local-ai-sql-assistant
    cd text-to-sql-ai
