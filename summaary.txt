@@ -1,9 +1,1 @@
-AI-Powered Database Analyst (Text-to-SQL Engine)
 
-Designed a Natural Language Interface for database management, enabling users to query complex datasets using plain English.
-
-Built a secure, local inference pipeline using Ollama (Llama 3) and LangChain, ensuring data privacy by eliminating external API calls.
-
-Implemented a robust Python-MySQL connector that dynamically generates, sanitizes, and executes SQL queries with 100% accuracy on test schemas.
-
-Tech Stack: Python, LangChain, Ollama (Llama 3/phi3), MySQL, Prompt Engineering.
