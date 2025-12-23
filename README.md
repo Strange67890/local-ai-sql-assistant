@@ -1,6 +1,6 @@
 # 🤖 AI-Powered SQL Assistant (Text-to-SQL)
 
-An intelligent database assistant that converts natural language questions into SQL queries, executes them on a live database, and returns the results. Built with **Python**, **LangChain**, and **Ollama (Llama 3)** for 100% local, privacy-preserving inference.
+An intelligent database assistant that converts natural language questions into SQL queries, executes them on a live database, and returns the results. Built with **Python**, **LangChain**, and **Ollama (Llama 3/phi3)** for 100% local, privacy-preserving inference.
 
 ## 🚀 Features
 - **Natural Language Interface:** Ask questions in plain English (e.g., *"Who is the highest rated vendor?"*).
@@ -10,7 +10,7 @@ An intelligent database assistant that converts natural language questions into 
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.10+
-- **AI Model:** Meta Llama 3 (via Ollama)
+- **AI Model:** Meta Llama 3/ phi3 (via Ollama)
 - **Orchestration:** LangChain
 - **Database:** MySQL
 - **Tools:** VS Code, Git
