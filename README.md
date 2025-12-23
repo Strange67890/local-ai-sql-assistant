@@ -20,4 +20,4 @@ An intelligent database assistant that converts natural language questions into 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Strange67890/local-ai-sql-assistant
-   cd text-to-sql-ai
+   cd local-ai-sql-assistant
